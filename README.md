@@ -11,3 +11,4 @@ Panainte Bogdan, 4LF342
 
 Arduino Uno R3, senzor de temperatură TMP36
 Platformă: Arduino Uno R3 (ATmega328P)
+Autor laborator: <numele vostru>
