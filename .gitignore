@@ -3,3 +3,4 @@ build/
 *.o
 *.log
 .vscode/
+notite.txt
