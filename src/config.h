@@ -3,7 +3,7 @@
 
 #define SENSOR_PIN       A0
 #define SAMPLE_PERIOD_MS 1000 
-#define SERIAL_BAUD      9600
+#define SERIAL_BAUD      115200
 #define LED_PIN          13
 #define BUTTON_PIN 2 // buton de pornire/oprire achiziție
 
