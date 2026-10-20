@@ -20,4 +20,8 @@ Autor laborator: <numele vostru>
 - SERIAL_BAUD – viteza portului serial, în baud (9600)
 - LED_PIN – pinul LED-ului de stare (13)
 - BUTTON_PIN – pinul butonului de pornire/oprire a achiziției (2)
+
+Comunicație serială la 115200 baud
 Comunicație serială la 19200 baud
+Implicit se folosește 115200 baud; 19200 baud rămâne varianta compatibilă pentru module mai vechi.
+
