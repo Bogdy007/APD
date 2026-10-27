@@ -28,3 +28,5 @@ timestamp_ms,raw_adc,voltage_v,temp_c
 - [x] Configurare repository și `.gitignore`
 - [x] Redactare specificație hardware în Markdown
 - [ ] Simulare circuit în Tinkercad Circuits
+ 
+ ## 6. Visca Barca
