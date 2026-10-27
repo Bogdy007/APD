@@ -25,3 +25,7 @@ Comunicație serială la 115200 baud
 Comunicație serială la 19200 baud
 Implicit se folosește 115200 baud; 19200 baud rămâne varianta compatibilă pentru module mai vechi.
 
+## Senzori utilizați
+| Senzor | Interfață | Domeniu |
+|---|---|---|
+| TMP36 | Analogic (A0) | -40°C .. +125°C |
